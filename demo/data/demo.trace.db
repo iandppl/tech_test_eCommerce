@@ -1,0 +1,6 @@
+2021-07-24 19:20:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.email as email1_0_, user0_.amount as amount2_0_ from user user0_ where user0_.email=? [42102-200]
+2021-07-24 19:21:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "USER" not found; SQL statement:
+select user0_.email as email1_0_, user0_.amount as amount2_0_ from user user0_ where user0_.email=? [42102-200]
